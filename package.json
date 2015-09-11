@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Simple 3-way sync between a remote database, memory, and disk using PouchDB",
   "scripts": {
-    "test": "gulp test"
+    "test": "gulp lint"
   },
   "repository": {
     "type": "git",
