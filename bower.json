@@ -1,0 +1,28 @@
+{
+  "name": "ng-pouch-mirror",
+  "description": "Simple 3-way sync between a remote database, memory, and disk using PouchDB",
+  "version": "0.1.0",
+  "author": "Colin Skow",
+  "license": "MIT",
+  "homepage": "http://github.com/colinskow/ng-pouch-mirror",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/colinskow/ng-pouch-mirror-bower.git"
+  },
+  "main": ["ng-pouch-mirror.js"],
+  "keywords": [
+    "angular",
+    "angularjs",
+    "PouchDB",
+    "CouchDB",
+    "sync",
+    "mirror"
+  ],
+  "dependencies": {
+    "angular": "^1.4.x",
+    "pouchdb": "4.0.0"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.4.x"
+  }
+}

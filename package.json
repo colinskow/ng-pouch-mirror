@@ -1,0 +1,44 @@
+{
+  "name": "ng-pouch-mirror",
+  "version": "0.1.0",
+  "description": "Simple 3-way sync between a remote database, memory, and disk using PouchDB",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/colinskow/ng-pouch-mirror.git"
+  },
+  "author": "Colin Skow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colinskow/ng-pouch-mirror/issues"
+  },
+  "homepage": "https://github.com/colinskow/ng-pouch-mirror",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "PouchDB",
+    "CouchDB",
+    "sync",
+    "mirror"
+  ],
+  "devDependencies": {
+    "gulp": "^3.5.6",
+    "gulp-footer": "^1.0.5",
+    "gulp-header": "^1.2.2",
+    "gulp-jshint": "^1.9.2",
+    "gulp-karma": "0.0.4",
+    "gulp-ng-annotate": "^0.5.2",
+    "gulp-rename": "^1.2.0",
+    "gulp-sourcemaps": "^1.5.0",
+    "gulp-uglify": "^0.1.0",
+    "jasmine-core": "^2.2.0",
+    "jshint-stylish": "^1.0.1",
+    "karma": "~0.12.31",
+    "karma-chrome-launcher": "~0.1.7",
+    "karma-firefox-launcher": "^0.1.4",
+    "karma-jasmine": "^0.3.5",
+    "karma-phantomjs-launcher": "~0.1.4"
+  }
+}
